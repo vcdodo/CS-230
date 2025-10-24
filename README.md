@@ -1,4 +1,4 @@
-# THe Gaming Room Project
+# The Gaming Room Project
 
 **Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?**
 The client, The Gaming Room, wanted to develop a web-based game based on their current Draw It or Lose It game. It was already available on Android but they wanted it to be made available on all platforms.
@@ -44,3 +44,4 @@ In future though, I would use the tried-and-tested steps of:
 - planning for testing and validation
 - developing a prototype for early testing
 - comprehensive documention and communication 
+
